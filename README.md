@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sreejais
-- 👀 I’m interested in ...Cloud, ML and AI
+- 👀 I’m interested in ...Cybersecurity, Cloud, GRC,  ML and AI
 - 🌱 I’m currently learning ...A bit of all
 - 💞️ I’m looking to collaborate on ...Not sure right now
 - 📫 How to reach me ...sreejaisrideep@gmail.com
